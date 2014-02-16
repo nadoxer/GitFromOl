@@ -8,10 +8,10 @@ import android.view.Menu;
 
 public class MainActivity extends Activity
 {
-
 	@Override
 	protected void onCreate( Bundle savedInstanceState )
 	{
+		// 16/2 19:17
 		super.onCreate( savedInstanceState );
 		setContentView( R.layout.activity_main );
 	}
